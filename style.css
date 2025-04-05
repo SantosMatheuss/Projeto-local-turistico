@@ -30,6 +30,20 @@ h1 {
   margin: 8px 0 40px;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #1B1B1B;
+  margin: 2px 0 8px;
+}
+
+h3 {
+  font-size: 28px;
+  font-size: bold;
+  color: #1B1B1B;
+  margin: 20px 0 4px;
+}
+
 img {
   border-radius: 28px;
   width: 100%;
@@ -46,6 +60,7 @@ ul {
 
 #history {
   color: #0C51A7;
+  margin: 0 0 48px;
 }
 
 #family {
@@ -69,6 +84,10 @@ footer {
   text-align: center;
 }
 
-  .footer {
-  
-  }
+#heart {
+  width: 24px;
+}
+
+footer img {
+  vertical-align:middle;
+}
