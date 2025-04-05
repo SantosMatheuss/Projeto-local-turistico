@@ -2,13 +2,11 @@
   font-family: "Open Sans", sans-serif;
   background-color: #F5F4F0;
   margin: 88px 80px 48px;
-  width: 100%;
 }
 
 body {
-  box-sizing: 1120px;
-  width: 80%;
-  align-content: center;
+  box-sizing: border-box;
+  width: auto;
 }
 
 .notes {
@@ -91,5 +89,5 @@ footer {
 }
 
 footer img {
-  vertical-align:middle;
+  vertical-align: middle;
 }
